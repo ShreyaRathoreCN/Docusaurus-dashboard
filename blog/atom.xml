@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shreyarathorecn.github.io/Docusaurus-dashboard/blog</id>
-    <title>Ariba DevOps Blog</title>
+    <title>Shreya Representative Ariba DevOps Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shreyarathorecn.github.io/Docusaurus-dashboard/blog"/>
-    <subtitle>Ariba DevOps Blog</subtitle>
+    <subtitle>Shreya Representative Ariba DevOps Blog</subtitle>
     <icon>https://shreyarathorecn.github.io/Docusaurus-dashboard/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
